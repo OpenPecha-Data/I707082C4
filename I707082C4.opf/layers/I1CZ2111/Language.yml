@@ -1,0 +1,99 @@
+id: 92c32243d7454321b0e68d08e1147b55
+annotation_type: Language
+revision: '00001'
+annotations:
+  a357fe0550354bd1ad939498f90b0337:
+    span:
+      start: 39
+      end: 176
+    language: en
+  e067280ef7604a0b8e12a9c13aefd817:
+    span:
+      start: 234
+      end: 722
+    language: en
+  6e25008ac29246f592c64e087b08d493:
+    span:
+      start: 3990
+      end: 4031
+    language: en
+  c0af617d2a2c47209d81fb7b3a8c3d0e:
+    span:
+      start: 4699
+      end: 4721
+    language: en
+  e33362ce537246bab93684df0869c10e:
+    span:
+      start: 8446
+      end: 8466
+    language: en
+  d7c729b8b5dc49a2adfc05287f34fa1a:
+    span:
+      start: 8827
+      end: 8863
+    language: en
+  31150bef761e493d9106860634e3b0bc:
+    span:
+      start: 9265
+      end: 9404
+    language: en
+  57864eb9b41f4cc49fac9e5cb979209f:
+    span:
+      start: 9452
+      end: 9603
+    language: en
+  48283215c9a641778e9c9e9cf2da2a33:
+    span:
+      start: 11986
+      end: 12014
+    language: en
+  5cead664b71e4582837ac670558bf564:
+    span:
+      start: 15806
+      end: 15827
+    language: en
+  be43792361b7434e9fa8ea31e618f23a:
+    span:
+      start: 17697
+      end: 17718
+    language: en
+  6613755fbccd44759f9368dc29cbc9f7:
+    span:
+      start: 21932
+      end: 22026
+    language: en
+  30471196fa034cab8a8b9e860da61fbe:
+    span:
+      start: 22081
+      end: 22130
+    language: en
+  389fdabaa1b640aebc03a88c252853be:
+    span:
+      start: 22205
+      end: 22280
+    language: en
+  8c162ee82dd7476abc2a3977a4c3da56:
+    span:
+      start: 30904
+      end: 30924
+    language: en
+  b6d4fa2389084dcf879b9610a6cdf045:
+    span:
+      start: 31127
+      end: 31149
+    language: en
+  a799e6d2853b40d5858a423fccc454b3:
+    span:
+      start: 31891
+      end: 31914
+    language: en
+  c0b9137f426344a0a6a2c8e2a11cc77c:
+    span:
+      start: 33251
+      end: 33305
+    language: en
+  4333b2190cf94e71acf29934c45705b1:
+    span:
+      start: 33802
+      end: 33827
+    language: en
